@@ -1,8 +1,19 @@
-### React-Movie-Search-App
-Search for a movie information API themoviedb
+
+
+### Technologies Used :
+React-JS
+React Hooks
+Netlify.com (for hosting)
 
 ### Deployment - Netlify
 https://eloquent-lolly-b92a1f.netlify.app
 
-### run
+### How to Run Locally :
+
+Install all dependencies
+
 npm install
+
+Start Local Server
+
+npm start
